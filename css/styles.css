@@ -1,7 +1,5 @@
 h1 {
     color: red;
-    background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,227,156,1) 44%, rgba(206,247,255,1) 95%);
 }
 p {
     color: #aaaaaa;
